@@ -5,6 +5,7 @@
   display: block;  
  }
  .container{
+    background-color: black;
   height: 100vh;
   display: grid;
   grid-template-columns: 50% 50%; 
