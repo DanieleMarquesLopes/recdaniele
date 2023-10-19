@@ -1,6 +1,11 @@
- .botao primer{
+ .botaoprimer{
   padding: 1em;
   border-radius: 4px;
   text-decoration: none;
   display: block;  
+ }
+ .container{
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 50% 50%;  
  }
